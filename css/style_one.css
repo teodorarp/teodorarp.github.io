@@ -828,7 +828,7 @@ h6 {
   line-height: 2em;
   font-family: 'Archivo Black', sans-serif;
   margin: 15px 0;
-  color: #3f385b;
+  color: #fbc413;
 }
 h1 {
   font-size: 40px;
@@ -1417,7 +1417,7 @@ textarea:focus + .line-input {
   text-transform: uppercase;
   margin-bottom: 30px;
   line-height: 1em;
-  color: #9b90d1;
+  color: #fbc413;
 }
 .title-home h1 span {
   color: #9b90d1;
@@ -1589,7 +1589,7 @@ textarea:focus + .line-input {
   text-transform: uppercase;
   margin-top: 0;
   margin-bottom: 40px;
-  color: #fff;
+  color: #fbc413;
 }
 .info-block-wrap .image-block {
   position: absolute;
